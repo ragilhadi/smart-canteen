@@ -1,0 +1,1 @@
+https://github.com/berrouba-med-amine/simple-python-camera-viewer-opencv3-PyQt5
